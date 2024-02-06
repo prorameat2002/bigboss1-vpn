@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 6,
+"version": 7,
 "message": "What's new \nAdded new server",
 
 "files": [
@@ -35,6 +35,11 @@
 },
 {
          //server-truegame-vip-1
+         "config": "OqMlH+bl+v4kxDzCyZPZDBmm5RTQGqbY753sAwzkNCVczgB1xXze1gPcuEy0uVpslnpXtBR8LsN9jhRT/8z82O/ph3ryJyuthVytNeD3cN0rvxz7Cw1fxGf6qlEWjxfmXM0VwgjTYkZpl+bfMr6kX/doMcNqn5A1YEU8il1O3+qAp7BwtPglJaILbNHWxinFeH8mNifnLDiGnJfnBOw1XR3upEw42NEvXbWhUjae+NhcthJ4sALVHLsyPwV2y2PKBlYbvnzzJqb15IPBXPBPnU/D4iN2ZzkIQSdFFprQcvqIQliomV6kCKjvMeGKJeXpBNp8vE61XG2wjhpCtxKSpesr3aABhnw7kfHmbovQOh33EMVSbmaoW8R32demZ8tUqrzcPLnpWoRiMeWw1cjVQEkZwXf43MeTZDFqwVdOiGFBYVav1NHrFQ=="
+     
+},
+{
+         //server-truegame-vip-2
          "config": "OqMlH+bl+v4kxDzCyZPZDBmm5RTQGqbY753sAwzkNCVczgB1xXze1gPcuEy0uVpslnpXtBR8LsN9jhRT/8z82O/ph3ryJyuthVytNeD3cN0rvxz7Cw1fxGf6qlEWjxfmXM0VwgjTYkZpl+bfMr6kX/doMcNqn5A1YEU8il1O3+qAp7BwtPglJaILbNHWxinFeH8mNifnLDiGnJfnBOw1XR3upEw42NEvXbWhUjae+NhcthJ4sALVHLsyPwV2y2PKBlYbvnzzJqb15IPBXPBPnU/D4iN2ZzkIQSdFFprQcvqIQliomV6kCKjvMeGKJeXpBNp8vE61XG2wjhpCtxKSpesr3aABhnw7kfHmbovQOh33EMVSbmaoW8R32demZ8tUqrzcPLnpWoRiMeWw1cjVQEkZwXf43MeTZDFqwVdOiGFBYVav1NHrFQ=="
      
 },
