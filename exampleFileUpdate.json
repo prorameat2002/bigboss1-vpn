@@ -6,7 +6,7 @@
 
 "Inter": "add inter unit here",
 
-"version": 2,
+"version": 3,
 
 "message": "What's new \nAdded new server",
 
@@ -14,38 +14,55 @@
 
 "files": [
 
+         
+{
+
+         //server-TH-Server-Free-01
+
+         "config": "+sBAQya+qKmF/SBN/6wphsE21wxqeNWjYaUhdicNcvEmdL938t0ujRfhwVDJ55oMFQEwo5CY/72yuLrSmHt9qFbZtIvAaaB810yFNjzWTNrFMtHxdQ0w+p8de7KFR2+AEHD1rMrdmZBDK6qCI+jYC+2q21q5WfD9YMKPlMnr8m09oHop6AsqfiJtWFcFMHgTGAS3Py2Iutiu00YPU9NZnZ23cEc="
+
+     
+
+},
+
 
 
 {
 
-         //server-true-vip-1
+         //server-TH-TrueNoPro-vip-1
 
-         "config": "g0cyH017DGovjJGLkrPnHzzpeRS4xwleDQ3PboI2KRksGPY1arXkaanGoAAc6A+wtKmfueByis+E9wy7efRl0dvUOQ8VJCGC88W4EpSXEAF91dHeyqJY7ZvEQr4R9ImNMEgbgZ5J+0ltCletrdbBZnFNut+iIQaQxFzbPuLsk0qe+j0v8ioixmiEt0hgyOI1Tn1NhIYizox54ureBpSftW8M9jQIAzntJExN7Q=="
+         "config": "K9Vzcvt5AmAVpU5FubKJU1tyfr5DZDHlmitr9+rottLH/tkRHd6MoikJFy8GRcANo2SsSrw2WFr2R+vlwI0yCWBYoFaMlaEpY9OynJ1aA5FO4eXM2DmuO2vmt1wXDI0KyoMpRgqG27HD6YhkID4HnLNyxoHi2JYG2Cq05852dYxVNeEJgLyRig8gZEQMLtMFi+q5wY/ROVuuy15oAgVbTEBLGnQ="
 
      
 
 },
 
                {
-        //server-true-vip-2
-         "config": "GAqa+9e5ppiPnDxNH7AmzNBCVznh2Ynz18v38YiqFg+YqkssYGGoVMrjSD08mCHCpP/C81rhh/jJvifOD1QBPyMQXWfRLvnSL6WtTitlHpXC8xXBqjBS+4x5uUXvjzQg7U4wA7AcBB0xeuprF8KHPAJTKhM9+kXc4yJkwpIm+pyIXP18H3c1U9N3tvp5DasFYOXzyq7lBdwvxhN6CifMsofXFdQlxxfeVHoL0G87u2i6GeH4yaYZfuQnDofNpM5qXc22/7u2h1KuRiGucaVQJLqOP6b6JQ98TnjRAI6Q1YtCUwzEXu20vni49JsJg6100Fo2S112KA2b4JejI2jviwM/2vFItuN5k//gzn/74Dd8Ui33pF9WKdfMEmHCRC6diBOvEYtxs7SNJLqL5mWsJATzOWvtkiDd8wqFizKbqWhmdGrJTGecIuTUT3UJISZLEnGYohnyvWk="
+        //server-TH-TrueNoPro-vip-2
+         "config": "S5jQvbcTV06kM9eqkZ5mX4yHqjSXYASJIGpYPcihRouuAH9uj+D3G+BhAJFrKsQBbUKIauQj2ZuvtF/fTwQlivr2ZCHAyk5M4dKG3lCxjCBw950pvej210gahvLWMbTnRO4WeDFLFFErTGgOSeGAePT2iDJlxCtaEy9s8BNe064FbGVZW1XLO04iYdLJkbMImomhK6bj37GTzJG8IJPU5m6c8yHy5oVKpgELVCHRrUxmXCf75JTdYMJqln/BD9hrypcu5mAbkEqm+62+q00Wg01c8JLpw97CpVbCVCluP6TH5ThmI3nBKB5D+HKlYn8JbyUgOXYM7eN0/5lcuQmMGBT+1CsI78Jz94P3CQ9i6icUhiS0nZnsxHKxRuEPrK6i0wtfdngGzA1IzDF9+/l3E2LMngxa9i4tshetXHnIrc92/G6NclFqEtw9SnbIV3JUU0Yq9Q=="
       },
+
          
+         {
+        //server-TH-TrueGame-vip-1
+         "config": "UK5h4V89mtlx7re02p/LwmcVQvBiA2lERe+oaw10FhpEsABNH4QkdlQVlmYU1SHEJj/UZDrRtlbMqGFOxGh1a58fwY45VAHNVniJaFkEU8mJ6VYnkN6iqvUBrye2Iv79tOZDUrxR0Pj08AqVbq4qXLv2zCM1+tT4lxo9m9pHtB/jehJXEtREiJFVEA3qZ/sj14XdAkYQzuYWXctOhDCRTPywwDt//gsSypdptrswf36XCxSmtM/4OQ=="
+      },
+
          
 {
 
-        //server-dtac-vip-1
+        //server-TH-DtacNoPro-vip-1
 
-         "config": "GqwkyWmNwLAOqVwP+vpNc6Wz0OlTGblKLcrUNAWuv2iU1ZuKManhJEc0qlauf5dVbLrzUsSqVyHiyw4igLXupRDh6qI/tCIQOHk5k/rTpIUrzRCvn1JlJIMCcPtNyDaoeTPzJLm8MibDLZCni+G/wru20fiYcG2jHGEjY5t5GB4swqjdBbzHqpMyEuIYYUJPu37+fWixZ0uVhTdrPGSF0mYRPaFUSDoWmixnpRQ1kuSqb6/pp3i6aUFKLHUePbrs3WvJ1Q=="
+         "config": "Ax5FNRy169+kvipTFBZziZFbo0UQENvwgo2PYZrgASDyGzcNHGET6Ea12lHkH3Y+4RnACaF7dL7VioQ9RLhKPk9BxiX4qm3yyg1tOP1oWoWqkae72U2HY6tDtuAZd+jR09302EV0Hh2z4CVQQ7nvYzyUMY6UWFDuUKmAVGJgk94V17ldArO5wLagJaZeiFzyU8u2F5Ewmyf0FIX4tQ0Utqf+No3o8fmGHiLNbOCBZ9wo1GkVMpApOGMXBOmQf/m8"
 
       },
 
          
          {
 
-        //server-dtac-vip-2
+        //server-TH-DtacNoPro-vip-2
 
-         "config": "jAN//bW6kQRN/8uiYrfnjaHeH7JaGX9ajd4ZYb9dJJFpPAqoiAmQbV47lPs0lMg/1CfRDVvaB7L31CorHoUsXueHv5jlDYcW7CsHbcIHqXGBMQ6QIFqwyoAqkqaInXUXQfas9bKppwKpfo8+yfRC5gcwKAVUeLih6Dft3fCQhUMWtzvpkMqqYMPy8W0wjJr7hR/cjb19iAa5WzP7zzjJIpEQ8/8KrPkkWAOwT0SZbPGfa03LfcFQCXfBpDYBPrlF68vj/A=="
+         "config": "gWfSlnzEBQj9DiQIFj7L2CPr26jjwK1tJyhgypXsFaJT/eR09NcDP329XWl3mglgBBSShibZTlFInvTboB48jzgD+G01JwopJ2Tqfbl5xqyw/nSXpEpjNcwh1MIHVbfKB9tyeuhOwbQ+95bJcwS9qtTL+J8KGH9UxBloKlPxRUPh2K4BuoAHliTIkC3wxif1lROjL1cCdBRSe+ayTIBAi4vexZsfs2xSb+zefYkoH2dGrjNAWd4rpoDUqaYu1ElI"
 
       },
 
@@ -55,9 +72,9 @@
 
       {
 
-        //server-AISPLAY-vip-1
+        //server-TH-AisPlay-vip-1
 
-         "config": "HS0JDMwOKkT82zWO5WYEtfvJtoRSrXaIdA/jRl6NUyDeNZPFh6FRrXBatE/8taflPRTqNf0SpCKDnN+yvmZfSgLSneFE2h9Bqs8JzjB7cvyqhI56bIVtiMnLZvCaSJxu0djr3eL1oxJLK8lVuK9Hsvv0yeGToBGxTXD3thiUCkYa12iE+GQ0ASjJ4bIGJYjGDm7Gi5wQaKOkfM4DbozyI9RkVh+/QtkYaUHoC806Vh+lPOv6"
+         "config": "x9RRi87CcOFRWd64audiVs6T5zNPheSBq9f0aINwqMCLi0xuwxfDiObAft8DsE9FRSX1tzNy3aSczvsZz2kkePmYytNV/m7Yr0HONy0NsoGcJ4FM10fVa5+dY1TMxlK0G6ifpbNsI+8lpfwler1Hk3lddcxIGe7eB9tFoM6aRLjvIRpHICUxqqtjvOFZyshI5AWy97hOnioDcvtdotkYDxWhHuKYQZra"
 
       }
 
