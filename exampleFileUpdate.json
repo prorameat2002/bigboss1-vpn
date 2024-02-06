@@ -1,123 +1,70 @@
 {
-
 "Banner": "ca-app-pub-3940256099942544/6300978111",
-
 "Reward": "ca-app-pub-3940256099942544/5224354917",
-
 "Inter": "add inter unit here",
-
-"version": 15,
-
-"message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
-
-
+"version": 1,
+"message": "What's new \nAdded new server",
 
 "files": [
-
-         
 {
-
-         //server-TH-Server-Free-01
-
-         "config": "0/KDdE0Zr1Dc3Io+95qnyWeR8/ZSNBRCzd1rLeiNTgnAUMOfxAdAz4OwdNBhimJOFpGsAwg0Xzme3JGh0zLJXDeUuwM+39e7RNtlY3tONAlUsiD9mVvvpivF/iej2bq0Yij+DUBguhMP0ziCNrijiTrrP0iZm4p15xg+gRcwKvoWX6F0BthxAq5zrfx9CT1oFIgnYcWB7xrzmgSH2AlO/a4sZzCIutIu+SERnp8a41GprMzyqrI0kBMkaqzlEADeufLxGtvnRXgaKog73FK3DRxymhSFqKyk0CPetHKpFdAiaSH5gbSalBLWXgZy3zJYMIMqgYubp7jDw4+C18U58B9aEOz08eIbG4842LO6MZW8gbifurzWeANS7xpEjwc5DWBA6dvdm68haVjNjhHx2rJ1/BI7r2RatwdizDTHOOsuIR0lNVUnXQ9Uvt8="
-
+         //server-th-server-free-01
+         "config": "+sBAQya+qKmF/SBN/6wphsE21wxqeNWjYaUhdicNcvEmdL938t0ujRfhwVDJ55oMFQEwo5CY/72yuLrSmHt9qFbZtIvAaaB810yFNjzWTNrFMtHxdQ0w+p8de7KFR2+AEHD1rMrdmZBDK6qCI+jYC+2q21q5WfD9YMKPlMnr8m09oHop6AsqfiJtWFcFMHgTGAS3Py2Iutiu00YPU9NZnZ23cEc="
+     
 },
 {
-
-         //server-SG-Server-Free-02
-
-         "config": "HIdgA0BH80jOmCYeJLuR3J530AESM1V3Q/AeVYD8O9UyE0bqG/3L19Td2tcVyaxWGcQCczfj1HmQ9LyRjH2ekHIhjuJ8vz4ZICRfbqLlReVPYOgIvNjr0SR1vaCtaYwOfFqNb1FZqAAi1rqFKkzgURgBGnTM/EoGitZdHXndnSC9BC1emxmBEFGvq2TjRiMn7wEP6+aUHQBlPI3rhK8cfqrdeYwv1m/Spd7JIRYC6LpgbDEqbQjqZPhOdKYKm6XLai6DsvM8E3wrhaghYQfYgtbSObXua4UCgwl4GkOWWdDYqYJd6QoUGBvnu0wru6rgw9cWSGd9MfQdy9dJfkkKEjaWntEuXrgaLPK2gX1J0jADkthQADK+MOulswH1XhYX16HFyb10vXxhgHCLolv19ZJX0tN0Vv9xjAdlD3KiK2FUvnr0e1D2s06tYMoNXrQrMJvBUgIcsqAURY2Y48WOHSqa6uIDlv+QLI2hZjdz+2c="
-
+         //server-th-server-free-02
+         "config": "gKcOREQlUTz7CqFmUIyjg6w/krda13XuMIyiq3p2x60iVPXO1yVGvk0pn3IUqFfofj42MGFY+B6JXLOzbyEdFabRpPSc/W5c0MlRlBdMZQulOvy/aE2VSgP5VCLiTqoV2vINu8/SlZvn4CtN1YPRrhMiqTGI55TaX9CuzNW7HbsF1dT+czdITyjt5Ngfn/XLtBrEo6VgIp89KQj05tM0LuF3LiG3TO2X0zwNzW8PtjlLr7Vv77s5H9cwuyAywZH7sRa/S0wWtfukQaKjPAOSCwVOp+omp6zpKzyxvD4IsBxfqlU56i8NipSv2m/7ZsOnMOy1ItbMmg/JTlqTPdEUr7uNIkW9NQX3zp6rcURSThY84imJD99LhlZi6ETHlXDTk/Ic2bL4k0ok8Mol4Ci2pCLAmrToeiVqj+MkPxVVXm4IjLrtpVZ9LJtLde4bgpOZ6b5ITuHxqIhlGR19otlwMQ=="
+     
 },
 
          
-
-
 {
-
-         //server-TH-TrueNoPro-vip-1
-
+         //server-true-vip-1
          "config": "cyU1gDQ+h2Dcdg5Fvxnt0yZ442E8Byl7ucdcy2y+eiBQgpeuxSaABtpH5rZEllE1S5hKg7EHTDTYPYgKpHANevvTcaZ7Gvow09yI85/R8ekQNuaCTZaaViUddLaB8MRPMg70U7CN3T7WEZgEoV3qNLEmcTx6d5LHerwE5TPoIZC4Z5x9jMIa6GrJgUSI5QLbwWVFiZjQ2UJkrFzdpA/7btAdLQq8YgdpQCEACw+IKh7JLNbLW4dsYXKk3HLdjhAyHhUZUs1uLCUfDwAZvuys3ADTjrdV4nM9arPRKkPr6pbmmiqZIX1TH2sqIJXeWwt5j+EVrUY3gDq8B4EFib5sL1O7jPGBzS2XObS8aF54xIg69qA9H5dAhZxfcFX+iXvRQCYmUaOcb+YuCFw5GXC/krG/aRICDrQlEdVVBgfr06DSKDUQZJwEy1rJqln9Uo37BxngygxXZ4Y="
+     
 },
-
-               {
-        //server-TH-TrueNoPro-vip-2
-         "config": "S5jQvbcTV06kM9eqkZ5mX4yHqjSXYASJIGpYPcihRouuAH9uj+D3G+BhAJFrKsQBbUKIauQj2ZuvtF/fTwQlivr2ZCHAyk5M4dKG3lCxjCBw950pvej210gahvLWMbTnRO4WeDFLFFErTGgOSeGAePT2iDJlxCtaEy9s8BNe064FbGVZW1XLO04iYdLJkbMImomhK6bj37GTzJG8IJPU5m6c8yHy5oVKpgELVCHRrUxmXCf75JTdYMJqln/BD9hrypcu5mAbkEqm+62+q00Wg01c8JLpw97CpVbCVCluP6TH5ThmI3nBKB5D+HKlYn8JbyUgOXYM7eN0/5lcuQmMGBT+1CsI78Jz94P3CQ9i6icUhiS0nZnsxHKxRuEPrK6i0wtfdngGzA1IzDF9+/l3E2LMngxa9i4tshetXHnIrc92/G6NclFqEtw9SnbIV3JUU0Yq9Q=="
-      },
-         {
-        //server-TH-TrueNoPro-vip-3
-         "config": "QtZNW7wRDAF9FyzNhJcqfNIPrdZ8JJXUmUk5BIQMN/az0k4HTIlXtYxzf8kKUjRH9ujqYPR3faFdv/x+0brRtI6eP42+bvPlhFMl9gW7vgRflujvk0qSossPgCD8HOwI1793ngGwY8FSUGJnrkSPJKJ0UyMTgQkD27D7dLwtEl8xXmzzr9eRcEYSNNLzC0MR5OHNtbFerpHXIO834J0iFq09bSLUZB3n8va5U+iivXImmO+dpojPwpGkbyB1r01gCmI+DfrWGXzNBWf6OMGz2zx6O7O+9AeH8DlXO5v6PLE48IvORSyLMgCKaylTRR8vDAXUgDyCq2L9kr0hSDl/gbteJi56yASZBO8hNl3I0covk2qPOE5JbLdwGsY+ynIaFpI9ht+e0bh60SrVW1in8wNTD6FIHcwVooUJfx+/UL/MK6JsR0yDagTiD2U2C+T0iOmftrcYbpI="
-      },
-
-         
-         {
-        //server-TH-TrueGame-vip-1
-         "config": "UK5h4V89mtlx7re02p/LwmcVQvBiA2lERe+oaw10FhpEsABNH4QkdlQVlmYU1SHEJj/UZDrRtlbMqGFOxGh1a58fwY45VAHNVniJaFkEU8mJ6VYnkN6iqvUBrye2Iv79tOZDUrxR0Pj08AqVbq4qXLv2zCM1+tT4lxo9m9pHtB/jehJXEtREiJFVEA3qZ/sj14XdAkYQzuYWXctOhDCRTPywwDt//gsSypdptrswf36XCxSmtM/4OQ=="
-      },
-         {
-        //server-TH-TrueGame-vip-2
-         "config": "S5jQvbcTV06kM9eqkZ5mX4yHqjSXYASJIGpYPcihRouuAH9uj+D3G+BhAJFrKsQBbUKIauQj2ZuvtF/fTwQlivr2ZCHAyk5M4dKG3lCxjCBw950pvej210gahvLWMbTnRO4WeDFLFFErTGgOSeGAePT2iDJlxCtaEy9s8BNe064FbGVZW1XLO04iYdLJkbMImomhK6bj37GTzJG8IJPU5m6c8yHy5oVKpgELVCHRrUxmXCf75JTdYMJqln/BD9hrypcu5mAbkEqm+62+q00Wg01c8JLpw97CpVbCVCluP6TH5ThmI3nBKB5D+HKlYn8JbyUgOXYM7eN0/5lcuQmMGBT+1CsI78Jz94P3CQ9i6icUhiS0nZnsxHKxRuEPrK6i0wtfdngGzA1IzDF9+/l3E2LMngxa9i4tshetXHnIrc92/G6NclFqEtw9SnbIV3JUU0Yq9Q=="
-      },
-
-         
 {
-
-        //server-TH-DtacNoPro-vip-1
-
+         //server-true-vip-2
+         "config": "S5jQvbcTV06kM9eqkZ5mX4yHqjSXYASJIGpYPcihRouuAH9uj+D3G+BhAJFrKsQBbUKIauQj2ZuvtF/fTwQlivr2ZCHAyk5M4dKG3lCxjCBw950pvej210gahvLWMbTnRO4WeDFLFFErTGgOSeGAePT2iDJlxCtaEy9s8BNe064FbGVZW1XLO04iYdLJkbMImomhK6bj37GTzJG8IJPU5m6c8yHy5oVKpgELVCHRrUxmXCf75JTdYMJqln/BD9hrypcu5mAbkEqm+62+q00Wg01c8JLpw97CpVbCVCluP6TH5ThmI3nBKB5D+HKlYn8JbyUgOXYM7eN0/5lcuQmMGBT+1CsI78Jz94P3CQ9i6icUhiS0nZnsxHKxRuEPrK6i0wtfdngGzA1IzDF9+/l3E2LMngxa9i4tshetXHnIrc92/G6NclFqEtw9SnbIV3JUU0Yq9Q=="
+     
+},
+{
+         //server-true-vip-3
+         "config": "QtZNW7wRDAF9FyzNhJcqfNIPrdZ8JJXUmUk5BIQMN/az0k4HTIlXtYxzf8kKUjRH9ujqYPR3faFdv/x+0brRtI6eP42+bvPlhFMl9gW7vgRflujvk0qSossPgCD8HOwI1793ngGwY8FSUGJnrkSPJKJ0UyMTgQkD27D7dLwtEl8xXmzzr9eRcEYSNNLzC0MR5OHNtbFerpHXIO834J0iFq09bSLUZB3n8va5U+iivXImmO+dpojPwpGkbyB1r01gCmI+DfrWGXzNBWf6OMGz2zx6O7O+9AeH8DlXO5v6PLE48IvORSyLMgCKaylTRR8vDAXUgDyCq2L9kr0hSDl/gbteJi56yASZBO8hNl3I0covk2qPOE5JbLdwGsY+ynIaFpI9ht+e0bh60SrVW1in8wNTD6FIHcwVooUJfx+/UL/MK6JsR0yDagTiD2U2C+T0iOmftrcYbpI="
+     
+},
+{
+         //server-truegame-vip-1
+         "config": "OqMlH+bl+v4kxDzCyZPZDBmm5RTQGqbY753sAwzkNCVczgB1xXze1gPcuEy0uVpslnpXtBR8LsN9jhRT/8z82O/ph3ryJyuthVytNeD3cN0rvxz7Cw1fxGf6qlEWjxfmXM0VwgjTYkZpl+bfMr6kX/doMcNqn5A1YEU8il1O3+qAp7BwtPglJaILbNHWxinFeH8mNifnLDiGnJfnBOw1XR3upEw42NEvXbWhUjae+NhcthJ4sALVHLsyPwV2y2PKBlYbvnzzJqb15IPBXPBPnU/D4iN2ZzkIQSdFFprQcvqIQliomV6kCKjvMeGKJeXpBNp8vE61XG2wjhpCtxKSpesr3aABhnw7kfHmbovQOh33EMVSbmaoW8R32demZ8tUqrzcPLnpWoRiMeWw1cjVQEkZwXf43MeTZDFqwVdOiGFBYVav1NHrFQ=="
+     
+},
+{
+        //server-dtac-vip-1
          "config": "Ax5FNRy169+kvipTFBZziZFbo0UQENvwgo2PYZrgASDyGzcNHGET6Ea12lHkH3Y+4RnACaF7dL7VioQ9RLhKPk9BxiX4qm3yyg1tOP1oWoWqkae72U2HY6tDtuAZd+jR09302EV0Hh2z4CVQQ7nvYzyUMY6UWFDuUKmAVGJgk94V17ldArO5wLagJaZeiFzyU8u2F5Ewmyf0FIX4tQ0Utqf+No3o8fmGHiLNbOCBZ9wo1GkVMpApOGMXBOmQf/m8"
-
-      },
-
-         
-         {
-
-        //server-TH-DtacNoPro-vip-2
-
+ },
+ {
+        //server-dtac-vip-2
          "config": "gWfSlnzEBQj9DiQIFj7L2CPr26jjwK1tJyhgypXsFaJT/eR09NcDP329XWl3mglgBBSShibZTlFInvTboB48jzgD+G01JwopJ2Tqfbl5xqyw/nSXpEpjNcwh1MIHVbfKB9tyeuhOwbQ+95bJcwS9qtTL+J8KGH9UxBloKlPxRUPh2K4BuoAHliTIkC3wxif1lROjL1cCdBRSe+ayTIBAi4vexZsfs2xSb+zefYkoH2dGrjNAWd4rpoDUqaYu1ElI"
-
-      },
-
-
-      {
-
-        //server-TH-AisPlay-vip-1
-
+ },
+ {
+        //server-AISPLAY-vip-1
          "config": "xDKjZKQkDmZELCxBY/TWTiALpYDTo05EqL4dD1pYIOTIjjWz9G7HEvbyI8loYBWBmF3d+JmBw7HM/6JmXj0xlz9ri0KYLWUdcCLmVZeKTE01tOQyKntDk/ModE51dpbYb7TCYdYuMpvPp6gUm6q0HfHu9BTWsZGnGDTs2vk1L8CJXy2EEsNII1wFY+yggEo27+GLij2z3aboZ12TQrDxK1m3+p3HKXd6zh8CfgvHys8="
-
-      },
-         {
-
-        //server-TH-AisPlay-vip-2
-
+ },
+ {
+        //server-AISPLAY-vip-2
          "config": "1Ykg7P5jSiu0yyM+Bb7KQViA9acFyPyQPQkDTWFXT+wZ9Eq17VVqTpZNIm1U3G/a7qYMFbfK6KaI6z61YyivrUymk7GBRea8iCKN+tpHlCZ/OIwujal3NcW8XoN2tVVNmJMluL5JiNcxb5ft0aG8XdfZJtMb+Vfn5CxlwbJDJ7Rj9q3txLc7DxptHLB3UOXCKlEkDgjA2RAtSTtDSYeBc7+taEXiLeFVcubOPA=="
-
-         }
-
+ }
       
-
-
 
    ],
 
 
 
+"dtac": "If you use a Dtac SIM, you don't need to buy pro",
 
+"true": "If you use a True SIM, you don't need to buy pro",
 
-
-
-"dtac": "ถ้าใช้ซิมดีแทคก็ไม่ต้องซื้อโปร",
-
-
-
-"true": "ถ้าใช้ True SIM ก็ไม่ต้องซื้อโปร",
-
-
-
-"ais": "หากใช้ซิม AIS ต้องซื้อทั้งสองแพ็กเกจด้านล่างนี้\n*777*7067# 31฿\n*777*885# 59฿ \n \nหลังจากซื้อทั้งสองแพ็กเกจแล้ว\n • เลือกไฟล์ AisPlay แล้วใช้เชื่อมต่อ"
-
-
-
-
+"ais": "If you use Ais SIM, you need to buy both packages below\n*777*7067# 31฿\n*777*885# 59฿ \n \nAfter both are buy\n • Select the AisPlay file and use it to connect"
 
 
 
