@@ -6,7 +6,7 @@
 
 "Inter": "add inter unit here",
 
-"version": 7,
+"version": 8,
 
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
@@ -47,6 +47,10 @@
          {
         //server-TH-TrueNoPro-vip-3
          "config": "mdG1YcSKjYMoSo2dGQt7YEPnkondLd5dawgDZJw9w7YM/gCrSaaw5mKF02VHmvbQVdKq1XomdHIJuRuCf9urDHuiKdvvEBO4EBisluA5PH5tFt0gV4QLw7eQH6+lj/Xw1YwzzPgPddxPW+4f/bP3uEPvahJnL4uA4A2o0YQqMqAifdTcT0vJnkiuUxoXMsav26Op5mIaEQd/7UZrMkvSOPBDQjfrlbRrM7pn7mJJRqNgLABVQkG1Y2FTPMr6J9FSiamLzGoV0l8l+el185U5mGBcGcD2MaAsonmORHYAfq8hyX4ib1PEcFCcz7a0rCZMDPACZhVV0oA6XKNW5YIs0yxh/g1vkVfEnhdhzY4cNYlX4jX3U5pn44DDPUWMqUWLUyBxjs0iRUUKsXqcDowtsJJ0YoA0PkJaFjZnUZP+Fnh8Io5lm8jyJT2w6gDedZ8YRaVagA=="
+      },
+         {
+        //server-TH-TrueNoPro-vip-4
+         "config": "NUaSdILxlirIr74ooUz52yqcbLq3FjWFFMheEIySeOQkY/9ydsl5R+WGAwIPvES+aNqY7CRtG8DPS/4MtFn+su/aFM1KO+N19MDveKq3YkJ4hD981tDRqz1DwKjno3w7L8uHnwUdROcu7mz/ecRwIxFIBTtxANBCpG///d+TdqOh4y/zA3z5VrqPdpngcHq0VoVy/WHeIoVNo3qOOA440aIJTwmCD8PSQOUAhT/1LWk="
       },
 
          
