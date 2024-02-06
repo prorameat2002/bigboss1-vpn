@@ -6,7 +6,7 @@
 
 "Inter": "add inter unit here",
 
-"version": 3,
+"version": 4,
 
 "message": "What's new \nAdded new server",
 
@@ -90,15 +90,15 @@
 
 
 
-"dtac": "If you use a Dtac SIM, you don't need to buy pro",
+"dtac": "ถ้าใช้ซิมดีแทคก็ไม่ต้องซื้อโปร",
 
 
 
-"true": "If you use a True SIM, you don't need to buy pro",
+"true": "ถ้าใช้ True SIM ก็ไม่ต้องซื้อโปร",
 
 
 
-"ais": "If you use Ais SIM, you need to buy both packages below\n*777*7067# 31฿\n*777*885# 59฿ \n \nAfter both are buy\n • Select the AisPlay file and use it to connect"
+"ais": "หากใช้ซิม AIS ต้องซื้อทั้งสองแพ็กเกจด้านล่างนี้\n*777*7067# 31฿\n*777*885# 59฿ \n \nหลังจากซื้อทั้งสองแพ็กเกจแล้ว\n • เลือกไฟล์ AisPlay แล้วใช้เชื่อมต่อ"
 
 
 
