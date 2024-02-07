@@ -2,8 +2,8 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 12,
-"message": "What's new \nAdded new server",
+"version": 13,
+"message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
 {
@@ -34,11 +34,6 @@
      
 },
 {
-         //server-truegame-vip-1
-         "config": "W/KhD4kev+gB1GUM5JOjaltIFa963tdpVy/8ULO7Bb7mWGSn5YIgCF0DLhAxPCVdm4KywZcPf5PD9YiDxkU79u68bCJ3NV29gm6iDuF1wv2GmzTeGzqRExf4+BvA4NWDaAzlH9+1wOiNsA1qODWHSOKVzV+9f1MSeUQsXM/zfeJAR1t/xhVGnpQJsexuniuhJRPJbB8kTLLZyO07yS7zL2EUm3nJ042P1rdaKAXLg1vlhpffuL/zyq8DXGPwocTbrlfdv+uBbNRZiEBZEjsHGtTSJziPBNNtAzY7WTrtiTB37G+Vbp9LP9dVOPS/wfW2WwxG70OhEBvv6dVW3bWnjyOjoB580rVcyIXRW39g+Ao4X8i2EBuCs3eMuyu87E+sOA0OZg5hT++oxfNj3GBz2A+manIYkkWGV2w0QCNSwy1HEnA4c+W49A=="
-     
-},
-{
         //server-dtac-vip-1
          "config": "Ax5FNRy169+kvipTFBZziZFbo0UQENvwgo2PYZrgASDyGzcNHGET6Ea12lHkH3Y+4RnACaF7dL7VioQ9RLhKPk9BxiX4qm3yyg1tOP1oWoWqkae72U2HY6tDtuAZd+jR09302EV0Hh2z4CVQQ7nvYzyUMY6UWFDuUKmAVGJgk94V17ldArO5wLagJaZeiFzyU8u2F5Ewmyf0FIX4tQ0Utqf+No3o8fmGHiLNbOCBZ9wo1GkVMpApOGMXBOmQf/m8"
  },
@@ -52,7 +47,7 @@
  },
  {
         //server-AISPLAY-vip-2
-         "config": "1Ykg7P5jSiu0yyM+Bb7KQViA9acFyPyQPQkDTWFXT+wZ9Eq17VVqTpZNIm1U3G/a7qYMFbfK6KaI6z61YyivrUymk7GBRea8iCKN+tpHlCZ/OIwujal3NcW8XoN2tVVNmJMluL5JiNcxb5ft0aG8XdfZJtMb+Vfn5CxlwbJDJ7Rj9q3txLc7DxptHLB3UOXCKlEkDgjA2RAtSTtDSYeBc7+taEXiLeFVcubOPA=="
+         "config": "jWuPaHt6WHvpxZKGsdAgTFt19gT6B3flS/GzxhrKG40RNtM81Uee+2GR8ABZNprur+akXM3q1NxE0rCsPuqcG6AyL9uchBdGKCOE9QShrQAK3zTKCtVc051B8KaY9KF7+0PjKDVZJB8xxPADnWW+uWLAMEKN9IG8u3zZ0jdKMW2tAMnD4AFiaLt8WBAFxEkdOmRz7pSj3anmIkTU2uF3/845l2MQwAmDGOkjqQ=="
  }
       
 
@@ -60,11 +55,11 @@
 
 
 
-"dtac": "If you use a Dtac SIM, you don't need to buy pro",
+"dtac": "ถ้าใช้ซิมดีแทคก็ไม่ต้องซื้อโปร",
 
-"true": "If you use a True SIM, you don't need to buy pro",
+"true": "ถ้าใช้ True SIM ก็ไม่ต้องซื้อโปร",
 
-"ais": "If you use Ais SIM, you need to buy both packages below\n*777*7067# 31฿\n*777*885# 59฿ \n \nAfter both are buy\n • Select the AisPlay file and use it to connect"
+"ais": "หากใช้ซิม AIS ต้องซื้อทั้งสองแพ็กเกจด้านล่างนี้\n*777*7067# 31฿\n*777*885# 59฿ \และหลังจากซื้อทั้งคู่แล้ว\และ • เลือกไฟล์ DisPlay แล้วใช้เชื่อมต่อ"
 
 
 
