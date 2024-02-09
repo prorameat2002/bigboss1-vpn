@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 16,
+"version": 17,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
@@ -62,7 +62,11 @@
  {
         //server-AISPLAY-vip-2
          "config": "jWuPaHt6WHvpxZKGsdAgTFt19gT6B3flS/GzxhrKG40RNtM81Uee+2GR8ABZNprur+akXM3q1NxE0rCsPuqcG6AyL9uchBdGKCOE9QShrQAK3zTKCtVc051B8KaY9KF7+0PjKDVZJB8xxPADnWW+uWLAMEKN9IG8u3zZ0jdKMW2tAMnD4AFiaLt8WBAFxEkdOmRz7pSj3anmIkTU2uF3/845l2MQwAmDGOkjqQ=="
- }
+ },
+{
+        //server-AISPLAY-vip-3
+         "config": "iJLvHLxfdJ5Yc/wvxEoPrwtDqWUtAfC7BHfebVcj1z2iBdtIeGpj90LaCnGNoszuE15Qy0OQ5YTz1v+6TDMbxJhI2eJ44ci72rSaAM7N6ktSpXhgt+n9ulL/ZaqFAFDoPYtSg8Q29dWvVW7CGismiV4pCfkR3DjkMPrednIsMlVAnX6pMMfV8RX06FtZIjtRRsckDFA6RoLeEKGh"
+}
       
 
    ],
