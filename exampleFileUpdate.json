@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 20,
+"version": 2,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
@@ -41,6 +41,11 @@
 {
          //server-true-vip-5
          "config": "TyjPdoXXUUoC0rbtpzRgQGoxYigYbf+UdP5wxZXJSnRRmW+gFK138tVKdauNRcXXoCwmcvY8FkCK3H1fAW6megJrtowHfV981M6EX6DxUkzBQVCb8zrmpZfxjMVeBcVRJE9G4UcF7R+17XoHeRzYC3DAcGb0FsEMFc+6yCQPl2k55V97yV5CDpzTUNxuBOtZMJj3sCnwA3MTtwoINxw7FFWrwzw="
+     
+},
+{
+         //server-truegame-vip-1
+         "config": "ooaMJg12s3gbTdyt/TAm7IaoF1oH8gAFa92/e2gNvwqZyDUhZbf/q8HuCfLYJ5IaLyfVRdpydfiUkX9M+VHa9w9pF/+78nUClo8v+Ex2orJfbQemPDnC8+166DDcf3dTQeaMcAhre52cdIDwEnWVGIHztHQxhPeJP+njyMhbgKFNCieaRljWGiEpWo4zN/yrqHohoULIo+lffkVOfO8oYCPH3tizxSZw"
      
 },
 {
