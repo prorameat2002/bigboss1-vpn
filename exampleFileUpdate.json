@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 4,
+"version": 5,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
@@ -50,7 +50,7 @@
 },
 {
         //server-dtac-vip-1
-         "config": "ShARgWcQdIIRP5sGgi8Nk8H3nc8Rv74aL+4O5gtIsT1G9Az+6iJcQdqTklP/GQqkrflRhvNV7VoSYXMFsDXtf6QJ5nvUVqtxrwcD6z3qk2f/a3S4KV4MGKiYAiffNK2dAX3RuWMbYfu028FRn42tFpovBtLDj9nE6n9MUEBb0a0x8M75w1+6+2swGQOE9vxM2GPJhdJGesV4/vjp0rbfwke45QECkZmvmRUSao/0D8/hFRuS"
+         "config": "eDdAXNKBtfEcdsqUF1Uq2ZOSNB7MyTVOSlDJ4xdqT+ru25vkG5bfGTlgtZQnpJiVGR4n8YP06THYMoFlkoPrX2ZtrLeh9uYn0vb38Ur4BCzrsDbjmycthfBiCWwFbPq07YIwUb9cJ7WBuu948Roc4uA5lKPNXJnI1d0kVQ8J7tUmELC29XPUTJHhx6mRf1wMfIMnV78rXn4SXHvtbBJQCibnebupyXSJE1O5N9DYisI="
  },
  {
         //server-dtac-vip-2
