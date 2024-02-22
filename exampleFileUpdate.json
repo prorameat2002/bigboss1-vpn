@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 5,
+"version": 6,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
@@ -14,6 +14,11 @@
 {
          //server-th-server-free-02
          "config": "gKcOREQlUTz7CqFmUIyjg6w/krda13XuMIyiq3p2x60iVPXO1yVGvk0pn3IUqFfofj42MGFY+B6JXLOzbyEdFabRpPSc/W5c0MlRlBdMZQulOvy/aE2VSgP5VCLiTqoV2vINu8/SlZvn4CtN1YPRrhMiqTGI55TaX9CuzNW7HbsF1dT+czdITyjt5Ngfn/XLtBrEo6VgIp89KQj05tM0LuF3LiG3TO2X0zwNzW8PtjlLr7Vv77s5H9cwuyAywZH7sRa/S0wWtfukQaKjPAOSCwVOp+omp6zpKzyxvD4IsBxfqlU56i8NipSv2m/7ZsOnMOy1ItbMmg/JTlqTPdEUr7uNIkW9NQX3zp6rcURSThY84imJD99LhlZi6ETHlXDTk/Ic2bL4k0ok8Mol4Ci2pCLAmrToeiVqj+MkPxVVXm4IjLrtpVZ9LJtLde4bgpOZ6b5ITuHxqIhlGR19otlwMQ=="
+     
+},
+ {
+         //server-true-test-1
+         "config": "w2CLJJp8mEUd1j3yVSwKH8au2SobT7m+5FRcEY7D1trgo2JJGMZWuPnU1e++rfZSyCrdctmsXdiPO9DJW+OJqAIJ05hDSGchyIXJAYKfKs2R3oWfW17EzDcP9AYoOZVKaPDRTr+cS5KFZxFE61oZ1/JZM6PXO4K5jaL6tQlatFMZDVxhp9+vj0ST7Zy1u1lpkklwHFTjR+s72309gbWcuYEqONnXY5yuYmgrbIpibW3Y/zLciL1cfgSxhLqbtKVuE1sOp5DVFLx/evMug1DfSM4Qmmc4k92WoIwiQMRbMHjUaNb5wQFwbjU9LDWcn0+9DQz/JQ0sshrBAA6DNf3xvK/Wjt3derizG8aHe0cHMSV4Pfc1PYPculc/f/WPSS2cmhhlNiEnOJHw116u2Lr9hLSONg4mM7sdBrNuSr52GlyF5ZQQJoQAwaEdgPxKLb+v8M/lWUMukqoQhazSHdsHtAZW8h+MADSTxp7kxw=="
      
 },
 
