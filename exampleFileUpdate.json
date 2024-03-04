@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 13,
+"version": 14,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
@@ -39,6 +39,11 @@
 {
          //server-true-vip-5
          "config": "dPcEqRIch/YQzRuxWxIyWCNP5kugoTSaMZj7Lz2hJY0m0mdu5/g4WWlXKjeKwq/iJEvkpnqvGEnxEASMUBAF66trpA1FiecHge2hZ17cOACMNHiB3TNaghxh5WhlL7mkY6h5YSDdY0XMtEbY1RK2U55eAIp8hrAeWt191F5Zr+BrEiU4EYUrGoiHQoHhMq4lVOSVRHldRwPvxEXk1Bjj27y5WG7KcTw/UEvniwdsspWkoCesmYy2gY89smlGzleFs0SWrGVVhFzDUMxdswycpw75lbbKZiqObf/KMFf+RnXg4BvIi50ZLASCmjIm1xJfNkFJtR+rw0aaoaQEtObXt083bJHS9uKUStwBOZxEDxEAx+eX+gA0HVubX5jVexv0j+CJ2NXURn/3xatn1S2XfRbbTjSc5LqdIPtl9aa3gUDNjLwx1O8AAvdjaVzjRXJA24zBWA=="
+     
+},
+{
+         //server-true-vip-6
+         "config": "zM8orblJVl47IU9ZeiC3209/p7CgWRHyg0OtuoL6ausS/e5BVPEXiML13AnswMsQJTtmEhzpnzdCS6KTLtc70VoPtHox3fE+cUQda5KbwNSf5BBC1KFuEkydzZKLInEKqL4Vv5zVa4rxWedNZLb/QrgCEhhhyx98us19i5ZX2BBHKCV6NAe6wlj/w98kRFPyKHgLXZQsicPIREerVhA52Ld+CZMDNRmBg2eHNZ1gdjMSJ+nK4Rwp1k56RmscRikC37Ba//yIVa5EQheF6pUf6hTOHxhST8R5AAEDQtLAZenEvFb0W6B/hinD3ehtcPEG8AL9KhPpgxiF73Lw6XKJFgqMqcxZ5JozDiu8GmkiN2AKyDB+bBsjtrvkFy9DxQ27+6SuxgwnVwX1bZw6vbYnIIKzQl2qqC4yMotpU51xW3nd5KcIYhp0g3ACgZHWo0jnHffECYu9bt825k9LNQVvLS2VjTjXjSOLWjd90zUhcJLlBnZwM5dgmb4nIxNORdJ4"
      
 },
 {
