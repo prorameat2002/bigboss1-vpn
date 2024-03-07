@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 14,
+"version": 15,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
@@ -44,6 +44,11 @@
 {
          //server-true-vip-6
          "config": "zM8orblJVl47IU9ZeiC3209/p7CgWRHyg0OtuoL6ausS/e5BVPEXiML13AnswMsQJTtmEhzpnzdCS6KTLtc70VoPtHox3fE+cUQda5KbwNSf5BBC1KFuEkydzZKLInEKqL4Vv5zVa4rxWedNZLb/QrgCEhhhyx98us19i5ZX2BBHKCV6NAe6wlj/w98kRFPyKHgLXZQsicPIREerVhA52Ld+CZMDNRmBg2eHNZ1gdjMSJ+nK4Rwp1k56RmscRikC37Ba//yIVa5EQheF6pUf6hTOHxhST8R5AAEDQtLAZenEvFb0W6B/hinD3ehtcPEG8AL9KhPpgxiF73Lw6XKJFgqMqcxZ5JozDiu8GmkiN2AKyDB+bBsjtrvkFy9DxQ27+6SuxgwnVwX1bZw6vbYnIIKzQl2qqC4yMotpU51xW3nd5KcIYhp0g3ACgZHWo0jnHffECYu9bt825k9LNQVvLS2VjTjXjSOLWjd90zUhcJLlBnZwM5dgmb4nIxNORdJ4"
+     
+},
+{
+         //server-truepro-vip-1
+         "config": "fd8KNC9+Y6tLikQekD9LyJJDe3sxlbwD64PRHl5WjGTIKL28MMUgykF7EyHk6DvRezMYTkDVRPeWk33D0KOpXLqif+QTqCZlOc3oD2vLCIL30/bNJNkjDiLOqHpCUTqyQInA/YbXjBsacsMwYiSvRUWQXjreRIu7+3tK1rqJ+TXTqecNWRZSzyzIYIlEQHfsLOEn2PGXwMrw3JE7Dw/aHsFEqFmpORO78rHRGl3l1hn4uJzcAq3YSSfELKM156JZ2LywYhAJ0XkuBnIlbKWHxuHwMZlQIvacaDmU/5pFKh0UGNJG53UELmFcdeA12AFQxo4kcYLRO8AQ2b0dxcMd5Ek432MLx6ymwxgmTylrrU8pABpjjHEuckQ2eEIr9+y/OgQdGoMIZI0jlpyEMmkaDyAvY1HNkhzkUypTSXcynX3YIPNKmovY22QzHi7pcqezpqG+YQvk6+n5mzHR/H+ggz2rSdix/GFE"
      
 },
 {
