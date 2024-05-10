@@ -2,34 +2,30 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 23,
+"version": 24,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
 {
          //server-th-server-free-01
-         "config": "Fs/yqfN4vEFCJ32QkMAsnq4wrDzNQ5J4ZprkqApFMKZk24aHZELJ/gMu5M47Wg97jyJ5NP4aX3EkexlzUiL6KqcvXFc+sFF/XHsuYVqoouEOoUZTde+hagl5AaLZpvyzFEB78SaOuJtWrsE6LU3XWmFq6ePns0jUSjVDENVSCNh8avXTYX+SlHfbEa+5c+zJHuIIDfyl39IURQVIi2G8oA=="
-     
+         "config": "3w+GVPfGajOJsu4HrSWjmgrCL7vrsmQfOHrlGu+TsRuTkySkdrAFNaHDTAVrmcjy9dSdBx/y/U2kK7s4cAe7RU+z/TCa6le72z35Egmukd8VWB/G+8sz3+l4R7TanyCuaJeyZtTkn84JSNIG5P6IwdbU6H/SVeHLhoYXl6zh4wZgGQcNfkqQw7gSRVF8+jHzGfY3S0NRvVT63LtagaTPxQ=="
+
 },
 {
          //server-true-vip-1
          "config": "ewJanGJZ6kex62X41itLSpUZdeK0YCkSupxPqH6heuc33p372HAZ3U6oJuaXxoowlJUpPQ1ijowZu92idNQpYPJce4cK4lgfGcFTxFNO6ZVKCyZrhQrUQ8OTSbeWoZP7Z9KB4cM+aZHb4ASFR/ExTv7ONv/gS8qz1oselWw8r0CFziTeYIolRiPfC+8l8+wgb+cH4qQiHNyvW9Dd3FHLku5xwrj09Vv89FRSaw=="
-     
 },
 {
          //server-true-vip-2
          "config": "dHLnvGVaZDza9/8yZUomzRxVOBIUbFi1uaGoC4W/7Fo5HxT3UD6tdvMD588dCFSBuAMnNReeM4N3rNEpt2ZSNItUPpU1y4ybIFfAiglS8T0k+ON31k6+Ebiq92t2N+nNk3Gh2nTRQdh/6l7f3l5ulkA6eiWwRrdsc9TZKpgYxploorBxX+PqTg4BfJXvoQg2gbFA+J9EJDhXOLAWKeWvQqBqN5Kzq96L"
-     
 },
 {
          //server-true-vip-3
          "config": "unFZ+ffIUwVH82ql/JIpFBd3URhOPfbiP6DOZ5eYe4+GMcR/4NqGXHyW1EWsum+DnhlWfEt3mMc3i3rdKCZf9ksL7C5aU7MvSxLmq3XslBg2azV39yN7RQgYngohK1UKJiSqR5OFhTjvAKUGTuIGIncGEtILPJBZJ1Th6di1r657PN8zffaQB7P++UmEzrt6NHwwJ8diYFRb51+2OQ75mUZ0J6krCI0C"
-     
 },
 {
          //server-true-vip-4
          "config": "eLDMDNlUG8a89lPm4K+Iwbg/mtXxPim6IS435dDLesVoJKUAPFmAu9HmnZUGiSBPILDNtDVpJvluWDB707q24T6kbmq/P08qcAxEu7z6PjPcRDeRgQXYz2ccE9VLSm5rxK5lHTIR01+eo5c4QPdYdpARIEb2gbsW+TJ5+zJ4eB81cd0SLXVDEyA4VU2puHClUYE6993uriuGHYvTaYQAP8J99qzl3+IMBOHayA=="
-     
 },
 {
          //server-true-vip-5
@@ -39,12 +35,10 @@
 {
          //server-true-vip-6
          "config": "bPJtNPnTFB3xdDyX+zHuf8ZtwN60H19ue4rKQgdKUeUna6Yx9/24jBA6jKO6a6f3O7cgUEtGVRWh28dGXJgmot/MZCT41jHExBrwjqsec9u9mVFUA4fNbmxCjfMjJrsNUbq7xMRfpxmVD9OqXp7KvgPDfhJUcRU4CIODdgXv18AOBhvd8fuHEDVJvpKTIqoNZPzWKo/h02KijstmdIPs6X1W2QXFTqgk"
-     
 },
 {
          //server-true-fbgaming-vip-1
          "config": "IgkhqRKjGt9IWHn8z1ffR/AcjGDAwpG0YNady4fCkUqNMOXHR9luLr5KVmMR641A/BK4E96Eb3+6sgWRQm775Dz9LZ28Dng7DzgiM9q4s+vQZ1um8GOvnZ6VzQKSVhBmXHHbmPCeAIBbf3FffySwB/pQm8JGTAA6nV+0Mj/we2V7YGMmT5Ze535JMZWV6cY69AkNn1jLEjvWzcp3hhUODU8CIqfdGv5l"
-     
 },
  {
         //server-AISPLAY-vip-1
