@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 26,
+"version": 27,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
@@ -52,6 +52,30 @@
          //server-true-vip-9
          "config": "6EwLLO1ZbtkZl8MC+ND7sLU4CNQiz1dE2AhzwIffml9/Wx3rsZ5Z+RdJ5+DEGGTgUjXaMjyhhP4MFJDyh1o1bKouH1ubDcUn3KdMVZxWQNVfpVim7L9Ckz2f1Kqk598P2ekOret8hMV9uNSgLlG9Q3d1MDO5BcRxjxrlZbxMce+0S4V818myEgHHcR/4TM6nV+DQl5r46e9TXC1BPNmz+aGMrcbYaLAr"
 },
+{
+         //server-true-vip-10
+         "config": "ENGihC4GWwIkJSXqCb0/s8aYREbaqOXMnMbFYHN0eXmF3HuNDisEdwkUI7T6YQo2HZHGReWbBl4SeUrNc5zd6GQwErnikYKPUNs7rJhgkBvGlTHi5dOgiasY+5/e9Ziuf+QngttIwJxpRato9jIAI30+RXfD8C6MtcgwNq9yk/JRMFV5eBA6blNTfTaPDEF2dptbUTOPOAtNFTWQG4cXtw=="
+},
+{
+         //server-true-vip-11
+         "config": "XdtRs+gPVzcvZ0KgLN7aUKA0f1JzMra/s7SMtlZ6IRywiYmb+ALuyau8zUdC87is+UmG9f86rseKnJXbAiVE/ENf2C5dVQOk/hDYzbSjomX0Bswq/KtI7yTT5fC3pcrSRHW6RD2NezjjPpYhXbaVgLWWiwaxehDrOnJ+q6XCIWcGmvl0rx04RtNMyarmCZtYHuJVExafA0NLFBzI3FGW6hWQDLMG8bkl"
+},
+{
+         //server-true-vip-12
+         "config": "Vrb0VCyq2vAM94add4SebFvAuomP3slGMQTQdYWv0NHVY675jfZuojZqoOJr/+QZ33E48z9WHsS8eHu14YDiPHmxTf1GgeKkrL6BGcfGdixOw2km1xh6+ZQ3ZWuEti6Jop6MQCi60I6KljmPmZi7WuSyTpbzCZWgj051k9EBct4="
+},
+{
+         //server-dtac-vip-1
+         "config": "7plR1jGNlsYnEvUhMYHQKkBuayDI0zRLPgFiIYUUEaFJNjil47oDpDbCv2H+8hNThxL5cWejXqT7Z3ktriZo9g8RW2FYgrzVdPmjYxYB5nAUSmJC3aVquSgeYI9qWd3VsPAKj18yb5i9jVdoPghl/tHsIz7pF2bvmKu46DPAWWK3kzQFa7XkVFSinUvIr9knQxeEv8A/XfivXnQ2el8nb/KK708="
+},
+{
+         //server-dtac-vip-2
+         "config": "KTesCEh9c4DNn2qYTxUnNW/GlqfGs2Agnl3HVsQWKIsVNJDn4/xv7u4+LjOXZ6uacfx8+ArBYvjY5695ZsOdj0LfwTr1VFq1Tl/jbHz3Re/aF32o9/B6GUwofMPv4cck4ZMLXyLNq2pyiHXHBsnqkJsfYs6t350y5jkhRDAGVsM="
+},
+{
+         //server-dtac-vip-3
+         "config": "TuMkcV3abS5nhVHTjMhw4dJgz2aj8kvHSIQnze/zjhVz8yEqeWSSyePIsjkznZZj+hyE/4/YW3EcAKB2nmzWGyfFWH3zhSXKj0zm6Oq/QzshoTkVgrSD8GYs7NJW9vxO4wDTrbcDadKOPM3myMfEVc2ecNrYQyx9/OPWrDsYvRvDGooou1/YXkb7f7qCXAYMsKJRyFIz6+7pSdULKORQneP9WBodJQpk"
+},
  {
         //server-AISPLAY-vip-1
          "config": "Ky+NYcqef0PMryTQLdwNgf/spxu8bIYhpboYwPPfgx4xG8ggsxSmkgawhO3uiZo4ZqkzMI/e9VcDUze5OFWXFXZGmIPEtuQ8aqkOl608Je/knh7bGkn1zxKDp6RQEpP7V26AHiM86A+wGhWrsiFzQu2ZjAOrhTpsel8+OyfTJEqDplM8z5k4VI4LnnEbM7gDKgjE9rPiKmNWJdJzkQu9bVpeDkWzgGVhXct22g=="
@@ -71,6 +95,14 @@
 {
         //server-AISPLAY-vip-5
          "config": "astm8DcVf9efpt0chhNI4wWwtceCXbm7zgsjJEGVLiuIZmhzv0GuWqo6gP66sHjthgf+AQvsjmsjmVz1AerCMj7AyQAb0oY8Hgf01qqbpXItZFGoE/kls7tZlH2NI3cr8dgOo/B9F3ksOZe3/DasJKrk7mN0rENB2MlY9riH+3con7p3LLYlljJNNxlwLU652XeJ7oi8WcpNWYNkiFVVQAk7sruBUSfpfySj8A=="
+ },
+{
+        //server-AISPLAY-vip-6
+         "config": "bIPuKJ9Pvey1Dsn/ZVaxGTi7RdxeiPejX4SckNBnq3gr3IjqDh8oeSaxSGulvhOoGet13HeAq5X2wjuXNTYK1FFGxAKr5igmR6Q3Plxs8xtD75mDpitxO88XjcRfz8CRP5mt8Hwqh6of2daRqpioiTeaKHyKz8wmcGpcgMAdAwb4FIlMQeokS332kpQSoMwPa2qqSUe4NQlxdy/27NaNOJ9ookkZs60b2uX/v2lGbyzxt8frHhL0vU57a4hVTKIwKC0TrZYXiEo="
+ },
+{
+        //server-AISPLAY-vip-7
+         "config": "wfODwwHLXi1SBWX5iMOhCIDA+5hv2Y2N1ZdMkLmTaqm4G4bis5dkQ/Fep8Pas5wr6hlywWUqvSRJ10WZDm5cwLUbjPXuEr2sNrmgrNSNvdy8J2y0Hn0j0POvYBECh4z2+1NtiOZwh9jxrVwG5QfK1fe3JUc="
  }
 
       
@@ -79,7 +111,7 @@
 
 
 
-"dtac": "ถ้าใช้ซิมดีแทคก็ไม่ต้องซื้อโปร",
+"dtac": "ซิมดีแทคสมัครโปรโซเชียล \nhttps://pic.puttipong-studio.in.th/secure-storage/57733495620240508_084337.jpg?fbclid=IwZXh0bgNhZW0CMTEAAR3wpBPACMc1hpxOz4TAas6by4IZ6H7YbG4p8StdCZQmsbctgBCE3c-r_M8_aem_AWAhsqHeXQ3y4MUNf8K8vMKWejg5UFq7Zt7IkGXqPhfm1QWnYD19M7wNzum3LhJma2TkMYtOnw_4Hv1pzsPObcnF",
 
 "true": "ควรสมัครกันรั่วของซิมทรูจะได้ไม่มีปัญหาเวลา server มีการเปลี่ยนพาสแบบ auto สมัครกันรั่วซิมทรูกด กด*900*8131# 30บ. ไม่รวม Vat ความเร็ว 64 kbs 30 วัน",
 
