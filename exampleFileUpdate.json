@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 25,
+"version": 26,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
@@ -11,54 +11,68 @@
          "config": "3w+GVPfGajOJsu4HrSWjmgrCL7vrsmQfOHrlGu+TsRuTkySkdrAFNaHDTAVrmcjy9dSdBx/y/U2kK7s4cAe7RU+z/TCa6le72z35Egmukd8VWB/G+8sz3+l4R7TanyCuaJeyZtTkn84JSNIG5P6IwdbU6H/SVeHLhoYXl6zh4wZgGQcNfkqQw7gSRVF8+jHzGfY3S0NRvVT63LtagaTPxQ=="
 
 },
+
+{
+         //server-true-free-1
+         "config": "iiNsWApVF/5kZegax0INNv1iom8WqaMl6DD81ZHnSH85OX2p8f2zSBqe43WhE2s8GcJIIfwc6aT2cvx1AKNrUw4kOeTlkVyd7vHxyuoB3UeUmOsYqRLrGpN7ZNiD4Aq/+NCgTgfsVGv8hthEYtKP1x9wICr27qLBhsUcRv3MPVO3hNzxRJbx74SGkGi8l1NuFu5UKUZb82ur6EvUxR4dFIdIqVH8wQDHgE93nQ=="
+},
 {
          //server-true-vip-1
-         "config": "ewJanGJZ6kex62X41itLSpUZdeK0YCkSupxPqH6heuc33p372HAZ3U6oJuaXxoowlJUpPQ1ijowZu92idNQpYPJce4cK4lgfGcFTxFNO6ZVKCyZrhQrUQ8OTSbeWoZP7Z9KB4cM+aZHb4ASFR/ExTv7ONv/gS8qz1oselWw8r0CFziTeYIolRiPfC+8l8+wgb+cH4qQiHNyvW9Dd3FHLku5xwrj09Vv89FRSaw=="
+         "config": "PHe4lpJ4LQ8ehsniU4Ny910x7K5zWx6gIZ+eWVUeaQBnN8MKGN5FN8H+/xy5mhuu0rQmAyhEAV4Ox9YKnN+TpKTrzX7jPCqDTx4mPY8iIdbqOKOp9M9iJreQjbB9GPc4xPYyamEMv1aUk71Q5f6s2YgDEff66oHf4yoP1xcwOMPnefijrOUejTe7oxBgYfPrCY8dbEU/h6fAwqrgGtr787/ZKHyAXt5BZ552lw=="
 },
 {
          //server-true-vip-2
-         "config": "dHLnvGVaZDza9/8yZUomzRxVOBIUbFi1uaGoC4W/7Fo5HxT3UD6tdvMD588dCFSBuAMnNReeM4N3rNEpt2ZSNItUPpU1y4ybIFfAiglS8T0k+ON31k6+Ebiq92t2N+nNk3Gh2nTRQdh/6l7f3l5ulkA6eiWwRrdsc9TZKpgYxploorBxX+PqTg4BfJXvoQg2gbFA+J9EJDhXOLAWKeWvQqBqN5Kzq96L"
+         "config": "VL6y5S2SNNydD6OCOPeI0TX/NE4Qw26Rf+ShjOQ1x6lfTWv3WPAxRSJY5bpnzrfGoRukqjst5MhXKsu03nL5+EUicnFxcqE8ARXkJzKUx8QAbU837Ev4IOd7z5PR1fi5zCcc6MW291+7uITEdKTQ0PU5UzihTsKSuxOkvpGxUseou4HOQng3hIeQ4hnRzIkoFV1ChBHXzYTwLHwDaOj3lVjeCIFGMEOy"
 },
 {
          //server-true-vip-3
-         "config": "unFZ+ffIUwVH82ql/JIpFBd3URhOPfbiP6DOZ5eYe4+GMcR/4NqGXHyW1EWsum+DnhlWfEt3mMc3i3rdKCZf9ksL7C5aU7MvSxLmq3XslBg2azV39yN7RQgYngohK1UKJiSqR5OFhTjvAKUGTuIGIncGEtILPJBZJ1Th6di1r657PN8zffaQB7P++UmEzrt6NHwwJ8diYFRb51+2OQ75mUZ0J6krCI0C"
+         "config": "QUrS46bEPejYcz0rDWD9BcB33xBbw45gllFo9bLuJi8KTfeKHfjV9BhBcCLNVd29Wugj52dtWGEJAvsunciLg8yAmiECRvZpZAbWl9z9tBCsUxAHiKeqhxi7yFbkE5NqUBaDctqlQEfPZ2BaSqdHg47L8BibZUWJjKapzleFeCR98X9pXH4m97Js8L6FeYhxZDiwfIjdblH2L9y/oK0vFbgQZs5vcbri"
 },
 {
          //server-true-vip-4
-         "config": "Wa7IO7qnZlRrX2GCawhpArIf5OWqwaKnYF7Kuv5nie01OF0Reoi31U+cW7WpgkGIgE5Rqemofk+PB1HA0zFaNTM+VQHezliTdSjzKPc79qk2gqpExTU4r09HrsWIK5clwL2/0gqjK2z/UPpvVapu+73ZWaMvvLbBDZUDyEhQCTdNwX+r7lwbftKc+wK2+Q3Kz6dJnqf6uDGaF/3NlcYG6kbo0grI8eyq"
+         "config": "hXozzPK30Yu/ITgHevi1gw4y6QbdhkYFkusodsObupLc0fzDTcPtETFcukGmJRFkPDFxhphyYC4ZvUbaRKvq6q6Z3QGC+xTc5ElPNIPWr9BABwPzMbrTP3wNmyUGI7Nt0o7grwicE1qTFyMYqP/GbA5SDUHMD9CsR/axgBJcl0jvILymYYMrr0Uvt/2aeDw8arhOVRynn7QfrTGq465bDlhQ/NiKiQ50"
 },
 {
          //server-true-vip-5
-         "config": "/w1SqpgrkpNjs+06mB8yuXicy9IIiWgAFkZz6zXnUck6BcChYfCe94rzqqz5MFIRjLsQrTWpSnV7l2QDs8SN8yJlykSzkdW3YgvrJR6VoGR+63ObRJKiBofARbfEtcpC44/H/DOniiTdYIKmhnm1swGM32wsayNVctU6EjMjyGavZLrTeYhDgnCyfCfoYL4eBmhSMB/c9GJPuQOu6paKLFaGIh7inC4E"
+         "config": "UYsGl3a+mnjXZ0o+VbCqFkoAOrXK23wUt0jgH/JMcX2lwukYU0mADvBHrHwh5Ig5xIcI1CIi9ObdBVEwqkZgLDE/hw6YPMUzIq7WuTiTi6Wy88V4nV3zknlPVuvEomv+ZqFoNgo3JVT3cgYwzVVzt5n8hssyt7Uu0zzIatJNrmFpE7LjrexN9U7GYGVJfw5fDaNqUA1mn7JDJQ4CxFHa5i3D/9yb5SIa"
 },
 {
          //server-true-vip-6
-         "config": "6sqXjchuoyt2Z9YzpDWCrOU1SduGpMNCv6lsf4YUVrxbxQsGHVPmGyZ31AVjidysxBg3LfhqKnRmozlFbPisWYGiRR2iEc/tFUqCgvGUcMjMzp3g/+m+WbTDVxD4TogHWHQKiz3BJ8DofjAJRe65qYboBsnGNBJFtJ8DCQHdhUi+yaZp022O5/paLPliDgoOW2z+a1PTvETXG1RGNG5sqhOMHRWYUO6yGkxqYg=="
+         "config": "aQcfzVxlxHYAqm4S0048/bE21D2wHonfS5I1kiuE3qktzPP9xIujcpeqs2KTcxPJEILs88e4S9SW0A4qNi+wAdVO68EmqxYXIil69ysmwrGDowTPT+teVbh9nz8ugZzCrT5KFrNvVJt75WG9NJQBIafkX0TCRQqmffJa2Hmtj6hDMJkJLUYcwcI35J6eAa0j5rxrJJ19fMw+KS2xmbOrow3ZuFJ1fEXn1u/7gw=="
 },
 {
          //server-true-vip-7
          "config": "Yqo9SvQsSoNHaSp11ZJCroUGhFtbbQkQdaI0QOURYHtHOzubmm1z8PYYLiT1DiDyGBusxcZYqpxbm6geq1Qz0bBwJKpBMmN9hQG1J8hKTvyU/W1hCCxYMt1oxwYVMiU+0TN0wn8bdnGRP/2RxWYDyBWo4zCoGTGu9s6MMy+WYVAFo+mt7LwP+doFBXdyE/lBsveXOLgJjpkpsCTsHKasiajcg7CyQIBC"
 },
  {
-        //server-AISPLAY-vip-1
-         "config": "+v5xc+OklzaXxgsVn0TBtO0LNItdLan6wvI8RMVLGApS99Ss87MZX89lYSX9hlGq8p+AkoyUKbVewkUZVIEwF7q30Ffqi77pjkrEu2NDFpH5A5G3gwiA7gtd8qk0i/aNxaRT5lZJ3oEQBx3JFg4MXqzvi9awN1iLX3rLZn8LGvuGez9c4beN0ZH0PuvO2Ul2AHdeJvLtMa5uv2nkdAisk9GqA10uNNZEx/1mTg=="
- },
+         //server-true-vip-8
+         "config": "S8y31G9RrpwSDwZiWPa8+vWAzHyNM+hhwbT5VbBmx+VtxHJWcfrziugsPdo976BiDhZWD9+x9DJuxSAPkPK74LaOGg68AYqmGnkDNv3WAlweAhik5DBGXxrt4/EkgI9PY/4vT7WyHezlwetKgZGY6XGKglxcO2qAtmB+IBpv1gJtvL4d8z+IyZ2+D9L5B5qbUpiIAMkYsEoDXnMsKtBIaXo6YMja4fN1OtAgNzSDvlcgy609qWVhNjWLdZ81LM9gN+n3XQ8cG97wfz503KKVjHm5tWRzFnfI6hGiRnUGkedJ/QoaUUMMRTlhl5G2SmAR1DBwKZ/fi2GD9LLr4ReOpSt42ZhdvlGwhsK/yRx5xJ2L6KqU14zCCGFN8ZRtzkxi2s51V+EwL3wZgr/ZkJyDSAxhXs4FSQXAfsKWz53yx8eIF92i34fEK4p/a8vmMNY2tX/PGhl6eb0Yhrn/vuDXxc66W4SZ7c2ojqO/evEYckI="
+},
+{
+         //server-true-vip-9
+         "config": "6EwLLO1ZbtkZl8MC+ND7sLU4CNQiz1dE2AhzwIffml9/Wx3rsZ5Z+RdJ5+DEGGTgUjXaMjyhhP4MFJDyh1o1bKouH1ubDcUn3KdMVZxWQNVfpVim7L9Ckz2f1Kqk598P2ekOret8hMV9uNSgLlG9Q3d1MDO5BcRxjxrlZbxMce+0S4V818myEgHHcR/4TM6nV+DQl5r46e9TXC1BPNmz+aGMrcbYaLAr"
+},
  {
+        //server-AISPLAY-vip-1
+         "config": "Ky+NYcqef0PMryTQLdwNgf/spxu8bIYhpboYwPPfgx4xG8ggsxSmkgawhO3uiZo4ZqkzMI/e9VcDUze5OFWXFXZGmIPEtuQ8aqkOl608Je/knh7bGkn1zxKDp6RQEpP7V26AHiM86A+wGhWrsiFzQu2ZjAOrhTpsel8+OyfTJEqDplM8z5k4VI4LnnEbM7gDKgjE9rPiKmNWJdJzkQu9bVpeDkWzgGVhXct22g=="
+ },
+{
         //server-AISPLAY-vip-2
-         "config": "bBA+SAXQ18Hz1yMZMiGYxE+TH37J7jOzWYAarHBjS2QvwoA1pX2wzocg9OULDH5aJC8s8levVob9lOm2rt0T5kA8JXKW1356for5D1PfMZURrDSQOaoklYHH7d5iQ7y0oOuwORz/5Grxh/fmrBM5z5oVRlk3c8e0k9fDZyw6C/ZioE/qo5vnhYa5OjAD21xbKBWYFot/7iigAODdiqWmEVzXO6Or8S+kfTV23g=="
+         "config": "vSfebH/UfngwNlWJNRdkG1gNW1VetYnPg7xJiE48ghR7DE9P4vmPLxomFTe17RacI8bY1gso6hFtZUcndSTN0gml8qCvaNhW58WD+x307q3LwhNNXI/NM/Rme5Tn5oBcOCq7017k4wX9KeVS6uwZT357+QPmbKyEAeKquRxVxuXbuC6gPbZe1TtB9TBZk/dhb96Ypdwwp7wewITzWt1EqGFcxBldpnsZSv2gBA=="
  },
 {
         //server-AISPLAY-vip-3
-         "config": "Ngnyjx7yeEMio0A3PEFgHHJBN+FuODJfhjRKeXrD4ien4KaWRPY3kygq/Y/xWsU6OLgeJz0U531EpcblP30gbGTnScoosk+02bIcEC8CSXSDTpnTTfvC1xb5rlRt6gPX5cR3K7Wuq1AEWLQyYh/Fe0wePTPmCXqgbcP/9b/vt2dXIAw22qBkVmn6r/N2G2mV381cTs5A5TatI57/xfjxh1NpWI/1+EuJcqej/Q=="
+         "config": "kViFLE5dXPedgAR1cUdjgIy5bc5dkoOYMs3uJqYEjhPWx/OgNTkBoWMaSFAyU0oiQtpzg4epV6pJTs3uy/tTzrsLk7zoCDejri87CxbTiaSjoxBwtLm9bRtbpmjg54DO58s4dibpLaAbKOQD4WJPmLwHgFDmXvcAGVexzSjqpv99f/lad8QCS5MhykMN+FKJpDxpzTxu37K25yTYqKRqJn+qgHv/0U8AE7CymQ=="
  },
 {
         //server-AISPLAY-vip-4
-         "config": "yD+2dQjsnUW6lhEN6j6PlEDiG/E5BBMtw8n8x2DLfWiOB1F+lw6H1vTQUFUXyq6Mo7d6d42bawHDZ5VR6z/E2WDhYoVGos2qE+Uvjde6rogz92JhncMmKKSXL9MznWiWLaRT7tG9TqPeoGLaruz368UeM9RTrrkRklNSmBbchGlS6U0TLK8xkAoy6myv7WhrkLBrqlGEDLNUybGf/rTwsMU9KtQP43tMtLmhCQ=="
+         "config": "mCpQpI3xpl084XFi8l+MdHrGLE3+/NagyDh1tS2lOLlbi/xyEnOySd9jYRnaeP9n5dT/azZwOQ4uEv4taiB2bN933IVRkccix4Zertc4A6roi42zISowf5r47fqzUf0kBVbSYXeFmrane1Uwy95MRSBjpJm/7L87sacXnLStK3xKnfoPT3kKrM9FTS4DIOSkbCb5nmZ10IFFYjKoZmF0PE3oO6kLh6RpKnaUFA=="
  },
 {
         //server-AISPLAY-vip-5
-         "config": "KbD6OAivLgdfLrJnxdmHhvY2eSmcqQVR3lDBZtKbDxi+yAoklZyT6CIg1zm0MfmeDGxThGseWuFc8SuFhrCWt01mKu/+6ijFxVfavo6FsqtNZuQBHB4+00rCJLgzM6omsr8QTfjI3ZJsyTk9Y7jYteoTV3Rs4khQIhDtl1JML21cGavsg8/3XIbVcxoDjKZIjuG5QOehHiRvwYKAWCpJ3x/g2wVK6K/zicBSVA=="
+         "config": "astm8DcVf9efpt0chhNI4wWwtceCXbm7zgsjJEGVLiuIZmhzv0GuWqo6gP66sHjthgf+AQvsjmsjmVz1AerCMj7AyQAb0oY8Hgf01qqbpXItZFGoE/kls7tZlH2NI3cr8dgOo/B9F3ksOZe3/DasJKrk7mN0rENB2MlY9riH+3con7p3LLYlljJNNxlwLU652XeJ7oi8WcpNWYNkiFVVQAk7sruBUSfpfySj8A=="
  }
+
       
 
    ],
