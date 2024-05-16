@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 29,
+"version": 30,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
@@ -65,20 +65,20 @@
          "config": "Vrb0VCyq2vAM94add4SebFvAuomP3slGMQTQdYWv0NHVY675jfZuojZqoOJr/+QZ33E48z9WHsS8eHu14YDiPHmxTf1GgeKkrL6BGcfGdixOw2km1xh6+ZQ3ZWuEti6Jop6MQCi60I6KljmPmZi7WuSyTpbzCZWgj051k9EBct4="
 },
 {
-         //server-dtac-vip-1
-         "config": "7plR1jGNlsYnEvUhMYHQKkBuayDI0zRLPgFiIYUUEaFJNjil47oDpDbCv2H+8hNThxL5cWejXqT7Z3ktriZo9g8RW2FYgrzVdPmjYxYB5nAUSmJC3aVquSgeYI9qWd3VsPAKj18yb5i9jVdoPghl/tHsIz7pF2bvmKu46DPAWWK3kzQFa7XkVFSinUvIr9knQxeEv8A/XfivXnQ2el8nb/KK708="
+         //server-DtacSocial-VIP-01
+         "config": "ZCSdfne0n7nqhTDv+dyb8pXf438lB/56qYe1VlPgMeSLMUgkH4PtCyj0Wj0AKp+seoZv5VeO1VqG6Z8DfJrlKttKr5GJI5ADxZ3UfOeRUjx6S6kB7BJ2k3DVH1tHJp/rMY/iJAPSDE98aza6qbbYpCbJDcPqONHkffAeE9ozyODbt/B/9RMlVfJF3mEeTyYjvO4WU1uCyUyYgj32khyuIZUVrZo="
 },
 {
-         //server-dtac-vip-2
-         "config": "KTesCEh9c4DNn2qYTxUnNW/GlqfGs2Agnl3HVsQWKIsVNJDn4/xv7u4+LjOXZ6uacfx8+ArBYvjY5695ZsOdj0LfwTr1VFq1Tl/jbHz3Re/aF32o9/B6GUwofMPv4cck4ZMLXyLNq2pyiHXHBsnqkJsfYs6t350y5jkhRDAGVsM="
+         //server-DtacSocial-VIP-02
+         "config": "tQiv/hKYtuMgibfIuS2GkST1u3aCJGyYYbek3yyFlVyN3LZi+WRR6j4VSGVzezlSs848ufVhnnAED2xY0UuoZOu6LyVBWuSTGnObVYXwbEx6uRadu/KUkw1ILbqczfPLJK9s36QKz99sh8k+MH1aFxGtYeJl4Y+XMZTbWqqmTHo="
 },
 {
-         //server-dtac-vip-3
-         "config": "TuMkcV3abS5nhVHTjMhw4dJgz2aj8kvHSIQnze/zjhVz8yEqeWSSyePIsjkznZZj+hyE/4/YW3EcAKB2nmzWGyfFWH3zhSXKj0zm6Oq/QzshoTkVgrSD8GYs7NJW9vxO4wDTrbcDadKOPM3myMfEVc2ecNrYQyx9/OPWrDsYvRvDGooou1/YXkb7f7qCXAYMsKJRyFIz6+7pSdULKORQneP9WBodJQpk"
+         //server-DtacSocial-VIP-03
+         "config": "wzfJ6vFYHFU6kNmY0MB31egnd7gsYvZPQwJAlbDnQWWQPO2OOAB/EruKoxwVm7RyWOdd+my7HNKsMaSvqsKMYNXXeeQ+I5lNpPKiULTpofkaNNbi96XgtM7X0Agqpo3FTjPRLY943zBq2QtS+OFjruwxWGftCVAy13HuwoGBFH5Eh4VYytbPDlIwqe6LGJIpUw3/ADHgUtfFbdxeHVtdQffOfMkCmBYW"
 },
 {
-         //server-dtac-vip-4
-         "config": ":Dh95tFX0pv8CQcCN22BJGXYbtJSBJQG7UmkGn9SJaxn7AxqAP4C59mWRoUy8Gz7CAtzWYrGWBd0tKssrmIjjC4yGUICmMaxe6KeVQrrWgNkJlPztgejvmigx2OeZc81PsgArovcbH6zkwP2WY0CHW7tsb2eMVlerrPJFl9fyV9bi5D7HndkURsuRSPnp94Ol16Y3FIlq2LCj00n8Yz34hw=="
+         //server-DtacSocial-VIP-04
+         "config": "lmhdsllPjox2/TDq+cXuzdhM4gVOQskYdcr1xH9YI6b7XUzG5AytweSa0wUHujqbooewqCXHIR6mumQY+81TMvJu1JG7EKVQyn+gp6zINb665IWJfpPEP1YDhb5/npqv6CsGD0aelUG+ix/nrMzGVbcscE0c9Fvso1j5+qORZVlCqtQ2PXem1x+q6jmb0WvvutfWvn9hf3ryZ/KgjIeF+g=="
 },
  {
         //server-AISPLAY-vip-1
