@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 33,
+"version": 34,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
@@ -91,6 +91,10 @@
 {
          //server-true-vip-18
          "config": "J6nhKAz9JEeYYOl/VVtZ8srG/+41XAnv4anNOgqRyi3maR3mJpJqDfs+LqERCeZDwwamPM2I1zb2GaaCEbLplv8Jrd7HFBLWQ3mPmIrElO6Hz+POhVzIS0YtVjn8H56SX0Wz6ztXHUIPe7JhC3CMgYXPsdQ+R/w4QsaNHkw+QbiLLrU2NS83d64m+PVg82i50WY3ONxcY9L+xeNfe+Cy4S5YGK427kCa"
+},
+{
+         //server-true-vip-19
+         "config": "xU7v+rHVULVSv0vAEqR/t1Buqnd64O7XqfH9a6auBCOi7DMa+T6KET19klalNaDFqxcQhg49+1IyDSL5AMkSJIo6S4wFtzdBqglOO11wQsvAL+AcIzGppa/1HCPLfco4V/7mCstSlMIcobtyz3zHgW4a+dVOhYi9kqhmF12BMAAgE9tnQRJZJYf9MPumTRhmi2hiknvL1hWKG05jel8IJx1KyyYxcisoQ8NcKw=="
 },
 {
          //server-DtacSocial-VIP-01
